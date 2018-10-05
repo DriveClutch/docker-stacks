@@ -1,0 +1,6 @@
+# Global reviewer -- unless a pattern further down matches,
+# this reviewer will be assigned
+* @DriveClutch/pypers
+
+# pypers patterns
+*.py       @DriveClutch/pypers
